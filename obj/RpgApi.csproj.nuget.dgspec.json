@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Honey.Moon\\Downloads\\RPGAPI_28-10-main\\RPGAPI_28-10-main\\RpgApi.csproj": {}
+    "C:\\Users\\Honey.Moon\\Downloads\\RpgApi-0411-clone-github\\RPGAPI_28-10\\RpgApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Honey.Moon\\Downloads\\RPGAPI_28-10-main\\RPGAPI_28-10-main\\RpgApi.csproj": {
+    "C:\\Users\\Honey.Moon\\Downloads\\RpgApi-0411-clone-github\\RPGAPI_28-10\\RpgApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Honey.Moon\\Downloads\\RPGAPI_28-10-main\\RPGAPI_28-10-main\\RpgApi.csproj",
+        "projectUniqueName": "C:\\Users\\Honey.Moon\\Downloads\\RpgApi-0411-clone-github\\RPGAPI_28-10\\RpgApi.csproj",
         "projectName": "RpgApi",
-        "projectPath": "C:\\Users\\Honey.Moon\\Downloads\\RPGAPI_28-10-main\\RPGAPI_28-10-main\\RpgApi.csproj",
+        "projectPath": "C:\\Users\\Honey.Moon\\Downloads\\RpgApi-0411-clone-github\\RPGAPI_28-10\\RpgApi.csproj",
         "packagesPath": "C:\\Users\\Honey.Moon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Honey.Moon\\Downloads\\RPGAPI_28-10-main\\RPGAPI_28-10-main\\obj\\",
+        "outputPath": "C:\\Users\\Honey.Moon\\Downloads\\RpgApi-0411-clone-github\\RPGAPI_28-10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Honey.Moon\\AppData\\Roaming\\NuGet\\NuGet.Config"

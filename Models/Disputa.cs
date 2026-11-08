@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace RpgApi.Models
 {
-    public class Disputa
+    public class  Disputa
     {
         public int Id { get; set; }
 

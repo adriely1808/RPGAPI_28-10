@@ -35,7 +35,7 @@ namespace RpgApi.Controllers
                 return BadRequest(ex.Message + " - " + ex.InnerException);
             }
         }
-
+ 
         [HttpGet("GetAll")]
         public async Task<IActionResult> Get()
         {
